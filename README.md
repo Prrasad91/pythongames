@@ -1,4 +1,4 @@
-# pythongames
+# Building a Snake Game using Python and Tkinter: A Step-by-Step Guide
 Introduction:
 This Python code creates a simple game called "Snake" using the tkinter module. The game involves controlling a snake on a 2D grid and eating food while avoiding collision with walls and the snake's own body. The game loop runs continuously until the game ends due to collision or player exit. The player can control the snake's direction using the arrow keys on the keyboard. The game keeps track of the player's score and displays it on the screen.
 
